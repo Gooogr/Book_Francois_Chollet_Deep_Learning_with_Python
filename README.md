@@ -1,1 +1,2 @@
-Book_Francois_Chollet_Deep_Learning_with_Python
+My implementation of the code and exercises presented in Francois Chollet's book "Deep Learning with Python"
+
