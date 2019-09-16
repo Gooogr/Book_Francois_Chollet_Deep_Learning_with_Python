@@ -1,2 +1,3 @@
-My implementation of the code and exercises presented in Francois Chollet's book "Deep Learning with Python"
+Мини-проекты, написанные на основе кода и упражнений из книги Франсуа Шолле "Глубокое обучение на Python" (Francois Chollet, "Deep Learning with Python")
+
 
